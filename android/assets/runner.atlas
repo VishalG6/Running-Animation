@@ -1,0 +1,78 @@
+
+runner.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Runner9
+  rotate: false
+  xy: 1, 509
+  size: 424, 509
+  orig: 424, 509
+  offset: 0, 0
+  index: -1
+Runner5
+  rotate: false
+  xy: 1, 1
+  size: 424, 506
+  orig: 424, 506
+  offset: 0, 0
+  index: -1
+Runner8
+  rotate: false
+  xy: 427, 510
+  size: 422, 508
+  orig: 422, 508
+  offset: 0, 0
+  index: -1
+Runner2
+  rotate: false
+  xy: 427, 3
+  size: 422, 505
+  orig: 422, 505
+  offset: 0, 0
+  index: -1
+
+runner2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Runner4
+  rotate: false
+  xy: 1, 508
+  size: 422, 504
+  orig: 422, 504
+  offset: 0, 0
+  index: -1
+Runner7
+  rotate: false
+  xy: 1, 1
+  size: 421, 505
+  orig: 421, 505
+  offset: 0, 0
+  index: -1
+Runner6
+  rotate: false
+  xy: 424, 2
+  size: 420, 504
+  orig: 420, 504
+  offset: 0, 0
+  index: -1
+Runner3
+  rotate: false
+  xy: 425, 510
+  size: 421, 502
+  orig: 421, 502
+  offset: 0, 0
+  index: -1
+
+runner3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Runner1
+  rotate: false
+  xy: 1, 1
+  size: 420, 503
+  orig: 420, 503
+  offset: 0, 0
+  index: -1
